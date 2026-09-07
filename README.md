@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Blogs"
+---
 # Blogs
 Blogs of topics of interest in Bioinformatics and Data Science.
 
