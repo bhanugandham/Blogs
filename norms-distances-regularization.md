@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "L-Norms, L-Distances & Regularization: The Complete Mental Model"
 date: 2026-09-06
 tags: [machine-learning, statistics, math, regularization, lasso, ridge]
