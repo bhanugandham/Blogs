@@ -1,2 +1,4 @@
 # Blogs
-Blogs of topics of interest
+Blogs of topics of interest in Bioinformatics and Data Science.
+
+As I go through my Masters in Data Science, I have identified a few topics that I understand better when described this way. This is repo for such blogs.
